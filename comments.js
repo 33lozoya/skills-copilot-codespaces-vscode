@@ -18,4 +18,4 @@ const Schema = mongoose.Schema;
 const ObjectId = Schema.ObjectId;
 
 const commentSchema = new Schema({
-    content: String,
+    content: String
